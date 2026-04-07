@@ -1,6 +1,36 @@
 # stunning-computing-machine
 For AI to create new music
 
+/*
+ * HMind Non-Commercial License v1.0 (based on Apache 2.0)
+ *
+ * Copyright (c) 2026 Travis Johnston
+ *
+ * Licensed under this Non-Commercial License (the "License"); you may not use
+ * this file except in compliance with the License. You may obtain a copy of the
+ * License at:
+ *
+ *
+ *
+ * You may use, copy, modify, and distribute the Software for non-commercial purposes only,
+ * subject to the following conditions:
+ *
+ * 1. The above copyright notice, this license notice, and the following disclaimer
+ *    shall be included in all copies or substantial portions of the Software.
+ * 2. Any commercial use, sale, or sublicensing of the Software is strictly prohibited
+ *    without explicit written permission from the copyright holder.
+ * 3. The Software is provided "as is", without warranty of any kind, express or implied,
+ *    including but not limited to the warranties of merchantability, fitness for a particular
+ *    purpose, or noninfringement. In no event shall the author be liable for any claim,
+ *    damages, or other liability, whether in an action of contract, tort, or otherwise,
+ *    arising from, out of, or in connection with the Software or the use or other dealings
+ *    in the Software.
+ *
+ * This license covers all formulas, algorithms, and code in the Nano-Inspired Super Memory
+ * Algorithm (NSMA) project, including prime-based addressing, compression, pattern extraction,
+ * state chaining, and all associated methods described in the LaTeX documentation.
+ */
+
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
